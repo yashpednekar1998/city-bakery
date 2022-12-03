@@ -1,0 +1,93 @@
+body{
+    background-image:url("images/menucard.jfif")
+}
+/*css for menu*/
+.menu{
+    border: 2px solid white;
+}
+.menu h1{
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.menu pre{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+/*css for cakes*/
+.cakes{
+    border: 2px solid white;
+}
+.cakes h1{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: violet;
+}
+.cakes pre{
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+}
+/*css for biscuits*/
+.biscuits{
+    border: 2px solid white;
+}
+.biscuits h1{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: violet;
+}
+.biscuits pre{
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+}
+/*css for khari*/
+.khari{
+    border: 2px solid white;
+}
+.khari h1{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: violet;
+}
+.khari pre{
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+}
+/*css for bread*/
+.bread{
+    border: 2px solid white;
+}
+.bread h1{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: violet;
+}
+.bread pre{
+    font-size: 15px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+}

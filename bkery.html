@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>city bakery</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://kit.fontawesome.com/8c00d576b8.js" crossorigin="anonymous"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="bkery.css">
+</head>
+<body>
+<script src="jquery.js"></script>
+<script>
+  $(document).ready(function(){
+    $('#ckk1').click(function(){
+      $('#ckp1').toggle();
+    })
+  })
+  $(document).ready(function(){
+    $('#ckk2').click(function(){
+      $('#ckp2').toggle();
+    })
+  })
+  $(document).ready(function(){
+    $('#ckk3').click(function(){
+      $('#ckp3').toggle();
+    })
+  })
+var clcock=setInterval(clocktiming,1000)
+function clocktiming(){
+var d=new Date();
+var time=d.toLocaleTimeString();
+document.getElementById('timee').innerHTML=time;
+}
+</script>
+<!--navbar-->  
+<nav class="navbar navbar-expand-sm">
+<div class="container">
+<a href="" class="navbar-brand">city bakery</a>  
+<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarid">
+<span class="navbar-toggler-icon"><i class="fa-solid fa-cake-candles"></i>
+</span>
+</button>
+<div class="collapse navbar-collapse" id="navbarid">
+<ul class="navbar-nav text-center ml-auto">
+<li class="nav-item"><a href="file:///D:/project_in_html,css,js/home.html" class="nav-link">home</a></li>
+<li class="nav-item"><a href="file:///D:/project_in_html,css,js/brocher.html"class="nav-link">brocher</a></li>
+<li class="nav-item"><a href="file:///D:/project_in_html,css,js/menu.html"class="nav-link">menu</a></li>
+<li class="nav-item"><a href="file:///D:/project_in_html,css,js/gallery.html"class="nav-link">gallery</a></li>
+</ul>
+</div>
+</div>  
+</nav>
+
+<!--header-->  
+<div class="content">
+<header class="header">
+<h1><br><br><br>cakes world</h1>  
+<p>amazing cakes</p>
+<div class="btun  text-center">
+<a href="file:///D:/project_in_html,css,js/inofr.html"><button class="btn">portfolio</button></a></div>
+</header>
+</div><br>
+
+<!--grid-->
+<div class="row container mx-auto">
+<!--ck1-->
+<div class="ck1 col-sm-4">
+<h1><img src="imge/blueberry.jfif" class="img-fluid"><br>blueberry</h1><br>
+<div class="text-center">
+<button class="btn1 btn-primary" id="ckk1">read</button></div> 
+<pre id="ckp1">I personally like blueberries in 
+this blueberry cake recipe because 
+they hold up their shape well, 
+release a beautiful deep purple to 
+blue color in baked goods, and all 
+those embedded juicy berries make 
+a beautiful presentation.</pre>
+</div> 
+
+<!--ck2-->
+<div class="ck2 col-sm-4">
+<h1><img src="imge/redvelvet.jfif" class="img-fluid"><br>redvelvet</h1><br>
+<div class="text-center">
+<button class="btn2 btn-primary" id="ckk2">read</button></div>  
+<pre id="ckp2">One essential pairing with 
+red velvet is cream cheese 
+frosting.The unlikely couple 
+is just wrong enough to make 
+it so right.Red velvet has 
+become a cultural staple 
+as of late</pre>
+</div>
+
+<!--ck3-->
+<div class="ck3 col-sm-4">
+<h1><img src="imge/chocolte.jfif" class="img-fluid"><br>chocolte</h1><br>
+<div class="text-center">
+<button class="btn3 btn-primary" id="ckk3">read</button></div> 
+<pre id="ckp3">Chocolate cake tastes rich in 
+flavor.Chocolate cake has a 
+chocolatey hint of flavor from 
+cocoa powder. Chocolate cake has 
+a creamy and buttery taste to it.</pre> 
+</div>
+</div><br>
+
+
+<!--cakes buy--> 
+<div class="cakes_buy container-fluid">
+<h2><br>the best cakes forever delicious 
+<button class="btn btn-white">buy now</button>
+</h2>  
+</div>
+
+
+<!--footer--> 
+<footer class="footer bg-dark">
+<h1><i class="fa-solid fa-cake-candles"></i><br>@copywrite<br>
+<a href="https://www.youtube.com/"><i class="fa-brands fa-youtube"></i></a>
+<a href="https://twitter.com/i/flow/login"><i class="fa-brands fa-twitter"></i></a>
+<a href="https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ftab%3Dwm&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ftab%3Dwm&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><i class="fa-regular fa-envelope"></i></a>
+<a href="https://www.instagram.com/accounts/emailsignup/"><i class="fa-brands fa-instagram"></i></a>
+<a href="https://in.pinterest.com/login/"><i class="fa-brands fa-pinterest-p"></i></a>
+</h1><h2 id="timee"></h2>
+<br>
+<pre>2901 6TH Ave S Seattle, WA, 
+98134-2103 United States 
+</pre>
+</footer>

@@ -1,0 +1,725 @@
+/*header*/
+.header{
+animation: header 10s linear infinite;
+}
+@keyframes header {
+    0%{
+       background-image: url("images/bk1.jpg");
+    }
+    20%{
+        background-image: url("images/bk2.jpg");
+    }
+    40%{
+        background-image: url("images/bk3.jpg");
+        }
+    60%{
+        background-image: url("images/bk4.jpg");
+    }
+    80%{
+        background-image: url("images/bk5.jpg");
+    }
+    100%{
+        background-image: url("images/bk6.jpg");
+    }
+}
+.header h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.header b{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(255, 5, 242);
+}
+.header p{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+/*gallery contentof biscuits css*/
+.biscuit h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+}
+.biscui{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.biscui h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.biscui p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.biscui img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot1{
+    transition: all 6s ease-in-out;
+}
+.rot1:hover{
+    transform: rotate(360deg);
+}
+.sty1{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*nankhatai css*/
+.nankhatai{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.nankhatai h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.nankhatai p{
+    font-size:20px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+.nankhatai img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot2{
+    transition: all 6s ease-in-out;
+}
+.rot2:hover{
+    transform: rotate(360deg);
+}
+.sty2{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*coconut_biscuits css*/
+.coconut_biscuits{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.coconut_biscuits h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.coconut_biscuits p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.coconut_biscuits img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot3{
+    transition: all 6s ease-in-out;
+}
+.rot3:hover{
+    transform: rotate(360deg);
+}
+.sty3{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*cream css*/
+.cream{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.cream h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.cream p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+
+
+.cream img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot4{
+    transition: all 6s ease-in-out;
+}
+.rot4:hover{
+    transform: rotate(360deg);
+}
+.sty4{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*gallery content of cakes css*/
+.cakes h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+}
+/*blckforest css*/
+.blckforest{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.blckforest h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.blckforest p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.blckforest img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot5{
+    transition: all 6s ease-in-out;
+}
+.rot5:hover{
+    transform: rotate(360deg);
+}
+.sty5{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*redvelvet css*/
+.redvelvet{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.redvelvet h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.redvelvet p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.redvelvet img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot6{
+    transition: all 6s ease-in-out;
+}
+.rot6:hover{
+    transform: rotate(360deg);
+}
+.sty6{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*vallina css*/
+.vallina{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.vallina h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.vallina p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.vallina img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot7{
+    transition: all 6s ease-in-out;
+}
+.rot7:hover{
+    transform: rotate(360deg);
+}
+.sty7{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*browniecake css*/
+.browniecake{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.browniecake h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.browniecake p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.browniecake img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot8{
+    transition: all 6s ease-in-out;
+}
+.rot8:hover{
+    transform: rotate(360deg);
+}
+.sty8{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*gallery content of karis css*/
+.karis h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+}
+/*khri css*/
+.khri{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.khri h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.khri p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.khri img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot9{
+    transition: all 6s ease-in-out;
+}
+.rot9:hover{
+    transform: rotate(360deg);
+}
+.sty9{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*cremrool css*/
+.cremrool{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.cremrool h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.cremrool p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.cremrool img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot10{
+    transition: all 6s ease-in-out;
+}
+.rot10:hover{
+    transform: rotate(360deg);
+}
+.sty10{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*shellroll css*/
+.shellroll{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.shellroll h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.shellroll p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.shellroll img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot11{
+    transition: all 6s ease-in-out;
+}
+.rot11:hover{
+    transform: rotate(360deg);
+}
+.sty11{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*eggless css*/
+.eggless{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.eggless h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.eggless p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.eggless img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot12{
+    transition: all 6s ease-in-out;
+}
+.rot12:hover{
+    transform: rotate(360deg);
+}
+.sty12{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+
+
+
+
+
+/*gallery content of breads css*/
+.breads h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+}
+/*brown_bred css*/
+.brown_bred{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.brown_bred h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.brown_bred p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.brown_bred img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot13{
+    transition: all 6s ease-in-out;
+}
+.rot13:hover{
+    transform: rotate(360deg);
+}
+.sty13{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*flor_bred css*/
+.flor_bred{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.flor_bred h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.flor_bred p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.flor_bred img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot14{
+    transition: all 6s ease-in-out;
+}
+.rot14:hover{
+    transform: rotate(360deg);
+}
+.sty14{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*broun css*/
+.broun{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.broun h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.broun p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.broun img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot15{
+    transition: all 6s ease-in-out;
+}
+.rot15:hover{
+    transform: rotate(360deg);
+}
+.sty15{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+/*specil_bred css*/
+.specil_bred{
+    border-radius: 30px;
+    background-color: rgb(68, 64, 64);
+}
+.specil_bred h1{
+    font-size: 40px;
+    font-family: Impact;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.specil_bred p{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: center;
+    display: none;
+    text-transform: capitalize;
+    color: white;
+}
+.specil_bred img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.rot16{
+    transition: all 6s ease-in-out;
+}
+.rot16:hover{
+    transform: rotate(360deg);
+}
+.sty16{
+    border-radius: 30px;
+    border: 2px solid green;
+    color: white;
+    background-color: green;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

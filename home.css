@@ -1,0 +1,106 @@
+.header{
+    background-image: url("imge/bkery.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:200px; 
+}
+.header h1{
+    font-size: 40px;
+    font-family: Impact;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    text-transform: capitalize;
+}
+/*css for our services*/
+.services h2{
+    font-size: 40px;
+    font-family: fantasy;
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+}
+.services p{
+    font-size: 20px;
+    font-family: fantasy;
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+}
+/*css for productsour*/
+.products{
+    background-color: white;
+}
+.products h3{
+    font-size: 40px;
+    font-family: Arial;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+.products pre{
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+.fa-burger-soda{
+    text-align: center;
+    font-size: 40px;color: black;
+}
+/*css for whorwe*/
+.who{
+    background-color: white;
+}
+.who h3{
+    font-size: 40px;
+    font-family: Arial;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+.who pre{
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+.fa-pot-food{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+/*css for contact us*/
+.contact{
+    background-color: white;
+}
+.contact h3{
+    font-size: 40px;
+    font-family: Arial;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+.contact pre{
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+.fa-phone{
+    text-align: center;
+    font-size: 40px;color: black;
+}
+/* css for images gallery*/
+.gallery h1{
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: capitalize;
+    color: black
+}
+

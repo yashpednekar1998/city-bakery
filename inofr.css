@@ -1,0 +1,535 @@
+/*header css*/
+.header{
+    background-image: url("imge/bkery.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.header h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+
+/*content css*/
+.content h2{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+}
+.content p{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+}
+
+/*grid css*/
+/*crd1*/
+.crd1{
+    border-radius: 20px;
+}
+.crd1 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.crd1 h2{
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd1 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd1 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.crd1 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+/*crd2*/
+.crd2{
+    border-radius: 20px;
+}
+.crd2 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd2 img{
+    width: 200px;
+    height:200px;
+    border-radius: 90%;
+}
+.crd2 h2{
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd2 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd2 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.crd2 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+/*crd3*/
+.crd3{
+    border-radius: 20px;
+}
+.crd3 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd3 img{
+    width: 200px;
+    height:200px;
+    border-radius: 90%;
+}
+.crd3 h2{
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd3 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd3 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.crd3 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+
+/*crd4*/
+.crd4{
+    border-radius: 20px;
+}
+.crd4 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd4 img{
+    width: 200px;
+    height:200px;
+    border-radius: 90%;
+}
+.crd4 h2{
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd4 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.crd4 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.crd4 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+/*employee css*/
+.employee{
+    border-top: 4px double grey;
+    border-bottom: 4px double grey;
+    width: 240px;
+}
+.employee h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: violet;
+}
+/*grid css*/
+/*emp1*/
+.emp1{
+    border-radius: 20px;
+}
+.emp1 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp1 img{
+    width: 200px;
+    height:200px;
+    border-radius: 90%;
+}
+.emp1 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp1 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.emp1 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+/*emp2*/
+.emp2{
+    border-radius: 20px;
+}
+.emp2 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp2 img{
+    width: 200px;
+    height:200px;
+    border-radius: 90%;
+}
+.emp2 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp2 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.emp2 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+/*emp3*/
+.emp3{
+    border-radius: 20px;
+}
+.emp3 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp3 img{
+    width: 200px;
+    height:200px;
+    border-radius: 90%;
+}
+.emp3 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp3 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.emp3 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+/*emp4*/
+.emp4{
+    border-radius: 20px;
+}
+.emp4 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp4 img{
+    width: 200px;
+    height:200px;
+    border-radius: 90%;
+}
+.emp4 p{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.emp4 span{
+    font-size: 11px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.emp4 pre{
+    font-size: 16px;
+    font-family: serif;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+    color: white;
+}
+/*customer*/
+.regular h6{
+    font-size: 40px;
+    font-family: Arial;
+    color: red;
+    text-align: center;
+    text-transform: capitalize;
+}
+/*cust1*/
+.cust1{
+    border-radius: 20px;
+}
+.cust1 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.cust1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.cust1 p{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.fa-star{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+/*cust2*/
+.cust2{
+    border-radius: 20px;
+}
+.cust2 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.cust2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.cust2 p{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.fa-star{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+/*cust3*/
+.cust3{
+    border-radius: 20px;
+}
+.cust3 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.cust3 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.cust3 p{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.fa-star{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+/*cust4*/
+.cust4{
+    border-radius: 20px;
+}
+.cust4 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.cust4 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.cust4 p{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.fa-star{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+/*content css*/
+.content1 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.fa-cake-candles{
+    font-size: 60px;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+

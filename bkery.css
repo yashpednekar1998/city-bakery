@@ -1,0 +1,213 @@
+/*navbar css*/
+.navbar{
+    background-color: rgb(9, 152, 152);
+}
+.navbar-brand{
+    font-size: 20px;
+    font-family: Arial;
+    text-transform: capitalize;
+    color: white;
+    cursor: text;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-item a{
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 200;
+    color: white;
+}
+.navbar-toggler-icon i{
+    color: white;
+}
+/*header css*/
+.header{
+    background-image: url("imge/bkery.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+   }
+   
+   .header h1{
+       font-size: 45px;
+       font-family: Arial;
+       font-weight: 400;
+       text-align: center;
+       text-transform: uppercase;
+       color: white;
+       opacity: 10px;
+   }   
+   .header p{
+       font-size: 20px;
+       font-family: Arial;
+       text-align: center;
+       text-transform: uppercase;
+       color: white;
+   }
+   .btn{
+       font-size: 20px;
+       font-family: Arial;
+       text-transform: uppercase;
+       color: white;
+       background-color: rgb(11, 201, 201);
+       border: 1px solid white ;
+   }
+   .btn:hover{
+       color: white;
+   }
+/*img*/ 
+.ck1 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+}
+.ck1 pre{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+}
+.ck1 img{
+    text-align: center;
+    border-radius: 90%;
+    width: 200px;
+    height: 200px;
+}
+.btn1{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    border-radius: 40px;
+}
+.ck2 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+}
+.ck2 pre{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+}
+.ck2 img{
+    text-align: center;
+    border-radius: 90%;
+    width: 200px;
+    height: 200px;
+}
+.btn2{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;text-transform: capitalize;
+    color: white;
+    border-radius: 40px;
+}
+.ck3 h1{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+}
+.ck3 pre{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    display: none;
+}
+.ck3 img{
+    text-align: center;
+    border-radius: 90%;
+    width: 200px;
+    height: 200px;
+}
+.btn3{
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;text-transform: capitalize;
+    color: white;
+    border-radius: 40px;
+}
+
+/*cakes buy*/
+.cakes_buy{
+    background-color: rgb(80, 228, 228);
+    height:70px;
+}
+.cakes_buy h2{
+    font-size: 16px;
+    font-family: Arial;
+    text-align: center;
+    color: white;
+}
+.btn{
+    font-size: 16px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px solid white;
+}
+/*footer*/
+.footer{
+    height: 175px;
+}
+.fa-cake-candles{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.footer h1{
+    font-size: 15px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+.fa-youtube{
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+.fa-twitter{
+    font-size: 20px;
+    color: rgb(127, 214, 255);
+    text-align: center;
+}
+.fa-envelope{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.fa-instagram{
+    font-size: 20px;
+    color: violet;
+    text-align: center;
+}
+.fa-pinterest-p{
+    font-size: 20px;
+    color-interpolation-filters: pink,rgb(247, 0, 255);
+    text-align: center;
+}
+.footer pre{
+    font-size: 15px;
+    font-family: Arial;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.footer h2{
+    font-size: 20px;
+    font-family: Impact;
+    text-align: right;
+    text-transform: capitalize;
+    color: white;
+}

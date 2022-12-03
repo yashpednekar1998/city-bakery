@@ -1,0 +1,92 @@
+body{
+  background-color: white;
+}
+.header{
+  animation: header 10s linear infinite;
+}
+@keyframes header {
+    0%{
+       background-image: url("images/bk1.jpg");
+    }
+    20%{
+        background-image: url("images/bk2.jpg");
+    }
+    40%{
+        background-image: url("images/bk3.jpg");
+        }
+    60%{
+        background-image: url("images/bk4.jpg");
+    }
+    80%{
+        background-image: url("images/bk5.jpg");
+    }
+    100%{
+        background-image: url("images/bk6.jpg");
+    }
+}
+.header h1{
+  font-size: 60px;
+  font-family: Arial;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+}
+.header p{
+  font-size: 40px;
+  font-family: Arial;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+}
+.logo h2{
+  font-size: 40px;
+  font-family: Arial;
+  text-align: center;
+  text-transform: capitalize;
+}
+.logo p{
+  font-size: 20px;
+  font-family: Arial;
+  text-align: center;
+  text-transform: capitalize;
+}
+h6{
+font-size: 20px;
+font-family: cursive;
+text-align: center;
+text-transform: capitalize;
+}
+
+.content p{
+font-size: 20px;
+font-family: cursive;
+text-align: center;
+text-transform: capitalize;
+color: black;
+}
+.content h2{
+font-size: 40px;
+font-family: Impact;
+text-align: center;
+text-transform: capitalize;
+color: black;
+}
+
+/*css for blogs */
+.blogs{
+  border: 2px solid black;
+}
+.blogs h1{
+font-size: 20px;
+font-family: Arial;
+text-align: center;
+text-transform: capitalize;
+color: white;
+}
+.blogs pre{
+  font-size: 15px;
+  font-family: Arial;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+  }
